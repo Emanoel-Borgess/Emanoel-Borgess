@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👨🏼‍💻 Emanoel Borges
 
-<!--
-**Emanoel-Borgess/Emanoel-Borgess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor`**
 
-Here are some ideas to get you started:
+Meu nome é Emanoel Borges, tenho 21 anos e sou de Romaria, uma cidade do interior de Minas Gerais. Concluí o ensino médio em uma escola estadual no ano de 2021. Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU), no campus Araras, localizada em Monte Carmelo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <a href="https://github.com/Emanoel-Borgess?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/Emanoel-Borgess?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Emanoel-Borgess?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/Emanoel-Borgess?color=7c007c&labelColor=640464&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/emanoel-borges-5b3863319/">
+        <img
+            alt="Linkedin"
+            title="Me siga no Linkedin"
+            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1155ba&logoColor=white&labelColor=&style=for-the-badge"
+            height="28"
+        />
+    </a>
+    <a href="https://instagram.com/Emanoel_borgess">
+        <img
+            alt="Instagram"
+            title="Me siga no Instagram"
+            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cb007b&logoColor=white&labelColor=&style=for-the-badge" height="28"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanoel-Borgess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanoel-Borgess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&custom_title=Linguagens/Tecnologias&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### 🐍 Animação
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Emanoel-Borgess/Emanoel-Borgess/output/snake.svg" alt="Snake animation" />
+</div>
