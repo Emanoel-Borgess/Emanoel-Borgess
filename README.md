@@ -47,6 +47,7 @@ Meu nome é Emanoel Borges, tenho 21 anos e sou de Romaria, uma cidade do interi
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
 
 ---
@@ -55,7 +56,7 @@ Meu nome é Emanoel Borges, tenho 21 anos e sou de Romaria, uma cidade do interi
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Emanoel-Borgess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanoel-Borgess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&custom_title=Linguagens/Tecnologias&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanoel-Borgess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&custom_title=Linguagens/Tecnologias&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
