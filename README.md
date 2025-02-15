@@ -19,7 +19,7 @@ Meu nome é Emanoel Borges, tenho 21 anos e sou de Romaria, uma cidade do interi
             src="https://custom-icon-badges.demolab.com/github/followers/Emanoel-Borgess?color=7c007c&labelColor=640464&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/emanoel-borges-5b3863319/">
+    <a href="https://www.linkedin.com/in/emanoel-borges-a14aa5350/">
         <img
             alt="Linkedin"
             title="Me siga no Linkedin"
@@ -56,7 +56,7 @@ Meu nome é Emanoel Borges, tenho 21 anos e sou de Romaria, uma cidade do interi
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Emanoel-Borgess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanoel-Borgess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&custom_title=Linguagens/Tecnologias&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanoel-Borgess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&custom_title=Linguagens/Tecnologias&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
