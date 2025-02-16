@@ -1,6 +1,9 @@
 # 👨🏼‍💻 Emanoel Borges
 
 **`Desenvolvedor`**
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Emanoel-Borgess.Emanoel-Borgess&left_color=orange&right_color=darkorange&left_text=Visitantes" height="20"/>
+</div>
 
 Meu nome é Emanoel Borges, tenho 21 anos e sou de Romaria, uma cidade do interior de Minas Gerais. Concluí o ensino médio em uma escola estadual no ano de 2021. Atualmente, estou cursando Sistemas de Informação na Universidade Federal de Uberlândia (UFU), no campus Araras, localizada em Monte Carmelo.
 
@@ -54,9 +57,11 @@ Meu nome é Emanoel Borges, tenho 21 anos e sou de Romaria, uma cidade do interi
 
 ### 📊 Estatísticas
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emanoel-Borgess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanoel-Borgess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&custom_title=Linguagens/Tecnologias&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emanoel-Borgess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanoel-Borgess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2&custom_title=Linguagens/Tecnologias" height="150" alt="languages graph"  />
 </div>
 
 ---
