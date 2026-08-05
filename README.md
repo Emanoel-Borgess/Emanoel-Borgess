@@ -74,3 +74,11 @@ Meu nome é Emanoel Borges, tenho 22 anos e sou de Romaria, uma cidade do interi
 ###
 
 ---
+
+### Animação
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emanoel-Borgess/Emanoel-Borgess/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emanoel-Borgess/Emanoel-Borgess/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuição do Pacman" src="https://raw.githubusercontent.com/Emanoel-Borgess/Emanoel-Borgess/pacman-output/pacman-contribution-graph.svg">
+</picture>
